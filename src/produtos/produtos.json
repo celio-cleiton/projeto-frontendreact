@@ -1,0 +1,101 @@
+ 
+
+ 
+ [
+    {
+        "id":"1",
+        "type": ["Brinquedo"],
+        "name": "nave espacial 01",
+        "description":"Fun Divirta-se A Linha Astronautas Ônibus Espacial é ideal para deixar a imaginação dos pequenos solta.",
+        "price": 50,
+        "imageUrl": "src/components/img/nave01.png"
+    },
+    {
+        "id":"2",
+        "type": ["Brinquedo"],
+        "name": "nave espacial 02",
+        "description":"Fun Divirta-se A Linha Astronautas Ônibus Espacial é ideal para deixar a imaginação dos pequenos solta.",
+        "price": 100,
+        "imageUrl": "src/components/img/nave02.png"
+    },
+    {
+        "id":"3",
+        "type": ["Brinquedo"],
+        "name": "nave espacial 03",
+        "description":"Fun Divirta-se A Linha Astronautas Ônibus Espacial é ideal para deixar a imaginação dos pequenos solta.",
+        "price": 150,
+        "imageUrl": "src/components/img/nave03.png"
+    },
+    {
+        "id":"4",
+        "type": ["Brinquedo"],
+        "name": "nave espacial 04",
+        "description":"Fun Divirta-se A Linha Astronautas Ônibus Espacial é ideal para deixar a imaginação dos pequenos solta.",
+        "price": 200,
+        "imageUrl": "src/components/img/nave04.png"
+    },
+    {
+        "id":"5",
+        "type": ["Viagens"],
+        "name": "planeta júpiter",
+        "description":"Júpiter é o maior planeta do Sistema Solar, tanto em diâmetro quanto em massa, e é o quinto mais próximo do Sol. Possui menos de um milésimo da massa solar, contudo tem 2,5 vezes a massa de todos os outros planetas em conjunto. É um planeta gasoso, junto com Saturno, Urano e Netuno.",
+        "price": 1000,
+        "imageUrl": "src/components/img/planeta01.png"
+    },
+    {
+        "id":"6",
+        "type": ["Viagens"],
+        "name": "planeta marte",
+        "description":"Marte é o quarto planeta a partir do Sol, o segundo menor do Sistema Solar. Batizado em homenagem a divindade romana da guerra, muitas vezes é descrito como o Planeta Vermelho, porque o óxido de ferro predominante em sua superfície lhe dá uma aparência avermelhada.",
+        "price": 10000,
+        "imageUrl": "src/components/img/planeta02.png"
+    },
+    {
+        "id":"7",
+        "type": ["Viagens"],
+        "name": "planeta saturno",
+        "description":"Saturno é o sexto planeta a partir do Sol e o segundo maior do Sistema Solar atrás de Júpiter. Pertencente ao grupo dos gigantes gasosos, possui cerca de 95 massas terrestres e orbita a uma distância média de 9,5 unidades astronômicas.",
+        "price": 15000,
+        "imageUrl": "src/components/img/planeta03.png"
+    },
+    {
+        "id":"8",
+        "type": ["Viagens"],
+        "name": "planeta terra",
+        "description":"A Terra é o terceiro planeta mais próximo do Sol, o mais denso e o quinto maior dos oito planetas do Sistema Solar. É também o maior dos quatro planetas telúricos. É por vezes designada como Mundo ou Planeta Azul.",
+        "price": 20000,
+        "imageUrl": "src/components/img/planeta04.png"
+    },
+    {
+        "id":"9",
+        "type": ["Roupas"],
+        "name": "traje espacial 01",
+        "description":"Um traje espacial é um sistema complexo de vestimentas, equipamentos e sistemas ambientais projetados para manter uma pessoa viva e confortável no extremo e perigoso ambiente do espaço exterior.",
+        "price": 1000,
+        "imageUrl": "src/components/img/traje01.png"
+    },
+    {
+        "id":"10",
+        "type": ["Roupas"],
+        "name": "traje espacial 02",
+        "description":"Um traje espacial é um sistema complexo de vestimentas, equipamentos e sistemas ambientais projetados para manter uma pessoa viva e confortável no extremo e perigoso ambiente do espaço exterior.",
+        "price": 1500,
+        "imageUrl": "src/components/img/traje02.png"
+    },
+    {
+        "id":"11",
+        "type": ["Roupas"],
+        "name": "traje espacial 03",
+        "description":"Um traje espacial é um sistema complexo de vestimentas, equipamentos e sistemas ambientais projetados para manter uma pessoa viva e confortável no extremo e perigoso ambiente do espaço exterior.",
+        "price": 2500,
+        "imageUrl": "src/components/img/traje03.png"
+    },
+    {
+        "id":"12",
+        "type": ["Roupas"],
+        "name": "traje espacial 04",
+        "description":"Um traje espacial é um sistema complexo de vestimentas, equipamentos e sistemas ambientais projetados para manter uma pessoa viva e confortável no extremo e perigoso ambiente do espaço exterior.",
+        "price": 5000,
+        "imageUrl": "src/components/img/traje04.png"
+    }
+  ]
